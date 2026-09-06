@@ -55,6 +55,22 @@ I combine **Python intelligence**, **JavaScript interaction**, and **CSS craft**
 <a href="https://github.com/asimkhattak8796-maker/LocalLLMRunner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asimkhattak8796-maker&repo=LocalLLMRunner&theme=tokyonight&bg_color=020617&border_color=164e63&title_color=67e8f9&icon_color=22d3ee" alt="LocalLLMRunner"></a>
 </div>
 
+## `./build-loop`
+
+```text
+[ idea ] → [ prototype ] → [ interaction ] → [ test ] → [ ship ]
+   ▲                                             │
+   └─────────────── feedback + iteration ───────┘
+```
+
+I like software that is technically sharp **and** satisfying to use: clear APIs underneath, responsive interactions on top, and enough polish in between to make the whole thing feel intentional.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/asimkhattak8796-maker/asimkhattak8796-maker/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Animated contribution snake">
+
+</div>
+
 ## `./metrics --live`
 
 <div align="center">
