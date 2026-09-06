@@ -77,6 +77,10 @@ I like software that is technically sharp **and** satisfying to use: clear APIs 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=asimkhattak8796-maker&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=67e8f9&icon_color=22d3ee&text_color=cbd5e1" alt="GitHub statistics">
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimkhattak8796-maker&layout=compact&hide_border=true&bg_color=020617&title_color=67e8f9&text_color=cbd5e1" alt="Top languages">
 <br><br>
+<img src="https://raw.githubusercontent.com/asimkhattak8796-maker/asimkhattak8796-maker/main/profile-3d-contrib/profile-night-view.svg" width="95%" alt="Animated 3D GitHub contribution calendar">
+<br><br>
+<img src="https://raw.githubusercontent.com/asimkhattak8796-maker/asimkhattak8796-maker/output/github-contribution-grid-snake-dark.gif" width="95%" alt="Animated cyan contribution snake with amber dots">
+<br><br>
 <img src="https://streak-stats.demolab.com?user=asimkhattak8796-maker&theme=tokyonight&hide_border=true&background=020617&ring=22d3ee&fire=f59e0b&currStreakLabel=67e8f9" alt="GitHub streak">
 <br><br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=asimkhattak8796-maker&bg_color=020617&color=67e8f9&line=06b6d4&point=f59e0b&area=true&hide_border=true" width="95%" alt="GitHub activity graph">
