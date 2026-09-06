@@ -1,82 +1,77 @@
 <div align="center">
-
-# Hey, I'm Asim 👋
-
-### Intelligent software, thoughtful interfaces, and useful automation.
-
-<a href="https://github.com/asimkhattak8796-maker?tab=followers"><img src="https://img.shields.io/github/followers/asimkhattak8796-maker?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=0f172a" alt="Followers"></a>
-<a href="https://github.com/asimkhattak8796-maker?tab=repositories"><img src="https://img.shields.io/github/stars/asimkhattak8796-maker?affiliations=OWNER&style=for-the-badge&color=f59e0b&labelColor=0f172a" alt="Stars"></a>
-<a href="https://github.com/asimkhattak8796-maker"><img src="https://komarev.com/ghpvc/?username=asimkhattak8796-maker&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS" alt="Profile views"></a>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Python+%7C+JavaScript+%7C+CSS;Building+clean+systems+and+distinctive+web+experiences;Turning+ideas+into+fast%2C+useful+products" alt="Typing introduction">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:06b6d4&height=220&section=header&text=ASIM%20KHATTAK&fontSize=52&fontColor=67e8f9&fontAlignY=38&desc=PYTHON%20%2F%2F%20JAVASCRIPT%20%2F%2F%20CSS&descAlignY=60&descSize=18&animation=twinkling" width="100%" alt="Animated neon header">
+<a href="https://github.com/asimkhattak8796-maker"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+intelligent+software+developer;%24+python+main.py+%E2%86%92+AI+%2B+automation+%2B+APIs;%24+npm+run+create+%E2%86%92+interactive+interfaces;%24+git+commit+-m+%22make+it+useful%22+%E2%9C%93" alt="Animated terminal intro"></a>
+<br><br>
+<a href="https://github.com/asimkhattak8796-maker?tab=followers"><img src="https://img.shields.io/github/followers/asimkhattak8796-maker?style=for-the-badge&logo=github&color=0891b2&labelColor=020617" alt="Followers"></a>
+<a href="https://github.com/asimkhattak8796-maker?tab=repositories"><img src="https://img.shields.io/github/stars/asimkhattak8796-maker?affiliations=OWNER&style=for-the-badge&logo=github&color=f59e0b&labelColor=020617" alt="Stars"></a>
+<a href="https://github.com/asimkhattak8796-maker"><img src="https://komarev.com/ghpvc/?username=asimkhattak8796-maker&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS&labelColor=020617" alt="Profile views"></a>
 </div>
 
-## About me
+```python
+class AsimK:
+    role = "Intelligent Software Developer"
+    languages = ["Python", "JavaScript", "CSS"]
+    mindset = ["curious", "practical", "always shipping"]
 
-I’m a developer who enjoys combining **intelligent Python backends**, **interactive JavaScript experiences**, and **precise CSS design** to turn ambitious ideas into products people can actually use.
+    def build(self, idea):
+        return "clean systems + polished interfaces"
+```
 
-- 🧠 I build automation and AI-powered workflows with Python.
-- ⚡ I create responsive, interactive interfaces with JavaScript and CSS.
-- 🧩 I care about clean architecture, accessible UX, and maintainable code.
-- 🚀 I’m always learning, shipping, and refining the details.
+## `./about-me`
 
-<details>
-<summary><b>What I’m exploring right now</b></summary>
-<br>
+I combine **Python intelligence**, **JavaScript interaction**, and **CSS craft** to turn ambitious ideas into useful products.
 
-- AI-assisted developer tools and practical automation
-- Fast, elegant frontend interactions
-- API design, data workflows, and reliable integrations
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ STATUS: ONLINE  •  FOCUS: AI + AUTOMATION + WEB EXPERIENCES  │
+│ MODE: learn → build → test → ship → repeat                   │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<details><summary><b>▸ execute ./current-focus</b></summary><br>
+
+- AI-powered tools and developer workflows
+- Responsive interfaces with meaningful micro-interactions
+- API architecture, reliability, and performance
 - Open-source projects that solve real problems
 
 </details>
 
-## Tech stack
+## `./stack --verbose`
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nodejs,git,github,vscode&perline=10" alt="Python, JavaScript, TypeScript, HTML, CSS, React, Node.js, Git, GitHub, and VS Code">
-
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nodejs,git,github,vscode&perline=10" alt="Core technology stack">
+<br><br>
+<img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=67e8f9" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=facc15" alt="JavaScript">
+<img src="https://img.shields.io/badge/CSS-0f172a?style=flat-square&logo=css3&logoColor=38bdf8" alt="CSS">
+<img src="https://img.shields.io/badge/AI%20%26%20Automation-0f172a?style=flat-square&logo=probot&logoColor=a78bfa" alt="AI and automation">
 </div>
 
-| Focus | Tools I use |
-| --- | --- |
-| **Backend & AI** | Python, APIs, automation, data workflows |
-| **Frontend** | JavaScript, TypeScript, React, HTML, CSS |
-| **Engineering** | Git, GitHub, testing, responsive design |
-| **Currently learning** | Better systems, sharper UX, smarter automation |
-
-## Featured work
+## `./projects --featured`
 
 <div align="center">
-
-<a href="https://github.com/asimkhattak8796-maker/ai-provider-directory"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asimkhattak8796-maker&repo=ai-provider-directory&theme=tokyonight&hide_border=true" alt="AI Provider Directory"></a>
-<a href="https://github.com/asimkhattak8796-maker/LocalLLMRunner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asimkhattak8796-maker&repo=LocalLLMRunner&theme=tokyonight&hide_border=true" alt="LocalLLMRunner"></a>
-
+<a href="https://github.com/asimkhattak8796-maker/ai-provider-directory"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asimkhattak8796-maker&repo=ai-provider-directory&theme=tokyonight&bg_color=020617&border_color=164e63&title_color=67e8f9&icon_color=22d3ee" alt="AI Provider Directory"></a>
+<a href="https://github.com/asimkhattak8796-maker/LocalLLMRunner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asimkhattak8796-maker&repo=LocalLLMRunner&theme=tokyonight&bg_color=020617&border_color=164e63&title_color=67e8f9&icon_color=22d3ee" alt="LocalLLMRunner"></a>
 </div>
 
-> Explore more in my [repositories](https://github.com/asimkhattak8796-maker?tab=repositories) — new experiments and useful tools are added regularly.
-
-## GitHub activity
+## `./metrics --live`
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=asimkhattak8796-maker&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub statistics">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimkhattak8796-maker&layout=compact&hide_border=true&theme=tokyonight" alt="Top programming languages">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=asimkhattak8796-maker&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
-
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=asimkhattak8796-maker&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=67e8f9&icon_color=22d3ee&text_color=cbd5e1" alt="GitHub statistics">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimkhattak8796-maker&layout=compact&hide_border=true&bg_color=020617&title_color=67e8f9&text_color=cbd5e1" alt="Top languages">
+<br><br>
+<img src="https://streak-stats.demolab.com?user=asimkhattak8796-maker&theme=tokyonight&hide_border=true&background=020617&ring=22d3ee&fire=f59e0b&currStreakLabel=67e8f9" alt="GitHub streak">
+<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asimkhattak8796-maker&bg_color=020617&color=67e8f9&line=06b6d4&point=f59e0b&area=true&hide_border=true" width="95%" alt="GitHub activity graph">
 </div>
 
-## Let’s build something smart
+## `./connect`
 
-Have an interesting idea, a tricky problem, or a project worth making better? [Open an issue](https://github.com/asimkhattak8796-maker/asimkhattak8796-maker/issues) or connect through [GitHub](https://github.com/asimkhattak8796-maker).
+```javascript
+const nextBuild = { idea: "interesting", design: "intentional", code: "maintainable", result: "worth shipping" };
+```
 
-<div align="center">
+Explore my [repositories](https://github.com/asimkhattak8796-maker?tab=repositories) or [start a conversation](https://github.com/asimkhattak8796-maker/asimkhattak8796-maker/issues). **Code with intent. Design with care. Ship with confidence.** 🚀
 
-### Code with intent. Design with care. Ship with confidence. 🚀
-
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f172a,100:020617&height=120&section=footer&animation=twinkling" width="100%" alt="Animated neon footer"></div>
