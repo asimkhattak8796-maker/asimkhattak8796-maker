@@ -31,7 +31,7 @@ class Developer:
     status = "building in public"
 
     def ship(self, idea):
-        return idea → "fast, clear, human"
+        return f"{idea}: fast, clear, human"
 ```
 
 </td>
